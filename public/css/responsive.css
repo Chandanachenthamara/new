@@ -1,0 +1,409 @@
+/* Extra small devices (phones, 600px and down) */
+@media (min-width: 1200px)
+{
+.container {
+    max-width: 1170px;
+}
+}
+@media (max-width: 1199px) {
+
+.active_testimonial {
+  max-width: 1170px;
+    margin: 0px auto;
+    display: block !important;
+    width: 80% !important;
+}
+.single_sector {
+    width: auto;
+    height: 282px;
+    border: 1px solid #E6E6E6;
+    padding: 36px 15px;
+    margin: 0px 20px;
+}
+}
+
+@media(max-width: 1199px) and (min-width: 993px) {
+.white_box_s {
+    max-width: 438px;
+}
+.bookform_div {
+    float: left;
+    width: 624px;
+    height: auto;
+}
+.input_field_bknw {
+    width: 262px;
+    float: left;
+}
+.input_field_bknw_qw {
+    width: 172px;
+    float: left;
+}
+.map_box {
+   
+    width: 311px;
+    
+}
+.adrs_box {
+    
+    bottom: 290px;
+   
+}
+
+}
+
+
+@media(max-width: 992px) and (min-width: 768px) {
+
+.icon_img {
+    float: left;
+    width: 43px;
+    margin-right: 9px;
+}
+.hw_box_cnt {
+    float: left;
+    max-width: 80%;
+}
+.service_section {
+    width: auto;
+   
+    margin: 0px auto;
+}
+.service_img {
+    width: 100%;
+    float: left;
+    height: auto;
+}
+.service_img iimg {
+	margin:0px auto;
+	display:block;
+}
+.cnt_left {
+    width: 100%;
+    height: auto;
+}
+.ml-36 {
+    margin-left: 0px;
+}
+.service_section {
+  
+    display: block;
+    padding-bottom: 20px;
+}
+.all_service {
+ padding: 30px 0px;	
+}
+#main {
+display: grid;
+}
+#first {
+		order: 2;
+	}
+	#second {
+		order: 1;
+	}
+	.cnt_left h2 {
+   
+    line-height: 37px;
+	}
+	.white_box_s {
+    width: 318px;
+   
+    background-color: #ffffff;
+    margin: 15px 15px;
+    float: left;
+    padding: 35px 35px 89px 36px;
+}
+.blue_box_first, .blue_box_sec {
+    width: auto;
+	
+}
+.hotel_logo_left-effect {
+    width: 29.95%;
+    height: auto;
+    position: relative;
+    margin: 14px 1.4%;
+    overflow: hidden;
+    border: 1px solid #D6D6D6;
+    float: left;
+}
+
+.input_field_bknw_qw {
+    width: 190px;
+    float: left;
+}
+.map_box {
+    float: left;
+    width: 100%;
+    height: auto;
+    position: relative;
+    margin-left: 0px;
+    margin-top: 25px;
+}
+.adrs_box {
+  
+    bottom: 15px;
+    left: 15px;
+    cursor: pointer;
+}
+}
+@media(max-width: 767px) and (min-width: 576px) {
+.white_box {
+    width: 100%;
+}
+.hw_box_cnt {
+    float: left;
+    max-width: 80%;
+}
+.hotel_logo_left-effect {
+    width: 45.95%;
+    height: auto;
+    position: relative;
+    margin: 14px 1.54%;
+    overflow: hidden;
+    border: 1px solid #D6D6D6;
+    float: left;
+}
+
+}
+@media (max-width: 767px) {
+.owl-nav
+{ display:none;}
+.hw_it_left {
+    
+       padding: 0px 30px;
+}
+
+.hw_box {
+   
+    display: flex;
+}
+.hw_box img {
+    float: left;
+     min-height:inherit; 
+}
+
+.book_audit_bnr {
+right: 29px;
+}
+.nav_div_saiph {
+    float: right;
+    width: 60%;
+    background-color: #fff;
+    padding: 10px 0px;
+    border-radius: 5px;
+	webkit-box-shadow: -1px 2px 22px -4px rgb(193 184 184 / 75%);
+    -moz-box-shadow: -1px 2px 22px -4px rgba(0,0,0,0.75);
+    box-shadow: -1px 2px 22px -4px rgb(181 172 172 / 75%);
+}
+.navbar-nav .nav-item .nav-link {
+   
+    padding-bottom: 15px;
+}
+.service_img {
+    width: 100%;
+    float: left;
+    height: auto;
+}
+.service_img iimg {
+	margin:0px auto;
+	display:block;
+}
+.cnt_left {
+    width: 100%;
+    height: auto;
+}
+.ml-36 {
+    margin-left: 0px;
+}
+.service_section {
+  
+    display: block;
+    padding-bottom: 20px;
+}
+.all_service {
+ padding: 30px 0px;	
+}
+#main {
+display: grid;
+}
+#first {
+		order: 2;
+	}
+	#second {
+		order: 1;
+	}
+	.cnt_left h2 {
+   
+    line-height: 37px;
+    margin: 20px 0px;
+    float: left;
+    width: 100%;
+	}
+	.srce_banner_cnt, .abt_banner_cnt, .faq_banner_cnt  {
+   
+    margin-top: 75px;
+}
+.services_banner, .about_banner, .faq_banner
+    {
+  
+    height: 201px;
+}
+.abt_banner_cnt h3,.srce_banner_cnt h3, .faq_banner_cnt h3 {
+    line-height:31px;
+    font-size: 26px;
+}
+.white_box_s {
+    width: 90%;
+  
+    background-color: #ffffff;
+    margin: 15px 0px;
+    float: none;
+    padding: 30px 52px 30px 51px;
+    margin: 0px auto;
+    display: block;
+    margin-bottom: 20px;
+}
+.blue_box_first, .blue_box_sec {
+    max-width: 371px;
+    margin: 0px auto;
+    display: block;
+    float: none;
+    width: 100%;
+}
+.blue_box_sec
+{    margin-top: 30px;}
+.abt_cnt_div {
+    
+    padding: 0px 15px;
+}
+.map_box {
+    float: left;
+    width: 100%;
+    height: auto;
+    position: relative;
+    margin-left: 0px;
+    margin-top: 25px;
+	padding: 0px 20px;
+}
+.adrs_box {
+  
+    bottom: 15px;
+    left: 35px;
+    cursor: pointer;
+}
+.contact_banner_cnt, .htl_banner_cnt {
+   
+    margin-top: 66px;
+}
+.contact_banner, .hotel_banner {
+   
+    height: 245px;
+}
+.input_field_bknw, .input_field_bknw_qw {
+    width: 100%;
+    float: left;
+}
+.mr-18, .mr-12 {
+     margin-right: 0px; 
+}
+.booking_mmry_main {
+    
+    width: 309px;
+   
+    margin-left: 0px;
+  
+    margin-top: 25px;
+}
+.popup {
+    position: fixed;
+    width: 95%;
+	margin:0px auto;
+	display:block;
+	
+}
+}
+@media (max-width: 565px) and (min-width: 540px) {
+
+.adrs_box {
+    
+    left: 45px;
+}
+}
+@media (max-width: 540px) {
+.adrs_box {
+    
+        left: 20px;
+}	
+}
+@media (max-width: 575px) {
+.left, .right
+{
+text-align:center;	}
+.footer_btm {
+    float: left;
+    width: 100%;
+    height: auto;
+    background-color: #03244B;
+    padding: 25px 0px;
+}
+.our_services p, .featured p, .content p  {
+	padding:0px 30px;
+}
+.book_audit_bnr {
+    width: 138px;
+    height: 46px;
+    
+    position: absolute;
+    bottom: 28px;
+    right: 12px;
+    
+}
+.single_sector {
+    width: 100%;
+	margin: 0px
+}
+.service_section {
+    display: block;
+    padding:15px 15px;
+}
+.bookan_audit {
+   
+    padding: 52px 15px 85px 15px;
+}
+.white_box {
+    display: block;
+    margin: 10px auto;
+    float: none;
+}
+.hotel_logo_left-effect {
+    width: 90%;
+    height: auto;
+    position: relative;
+    margin: 14px auto;
+	display:block;
+    overflow: hidden;
+    border: 1px solid #D6D6D6;
+    float: none;
+}
+.hotel_logo_left-effect img {
+ margin: 0px auto;
+	display:block;
+
+}
+.faq_cnt {
+    float: left;
+    width: 100%;
+    height: auto;
+    padding: 35px 15px;
+}
+}
+@media (max-width: 359px) {
+
+	
+.icon_content_loc p {
+    font-weight: 400;
+    font-size: 14px;
+}
+}
+
